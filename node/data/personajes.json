@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nombre": "David Arango",
+    "alimentacion": "cangre hamburguesa"
+  },
+  {
+    "id": 2,
+    "nombre": "Dylan chica",
+    "alimentacion": "mango"
+  }
+]
